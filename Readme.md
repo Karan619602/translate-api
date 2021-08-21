@@ -1,17 +1,19 @@
-#Translate-api
+Translate-api
 This is the api to translate a text from a language to another language by using google-translate-api.
 
 #Technology used
-#Node.js
-#MongoDB
-#Express.js
+Node.js
+MongoDB
+Express.js
 
-#install dependencies
-#npm i 
+#Install dependencies
+npm i 
 
-#how to use
+#How To Use
 
-#npm start to start server on port 4000
+#npm start 
+ server start on port 4000
 
-#npm run test to run test cases
+#npm run test 
+to run test cases
 
