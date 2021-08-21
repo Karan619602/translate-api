@@ -12,6 +12,6 @@ npm i
 # How To Use
 
 1. npm start 
- 2.server will start on port 4000
- 3.npm run test  to run test cases
+2. server will start on port 4000
+3. npm run test  to run test cases
 
